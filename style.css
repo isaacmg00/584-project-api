@@ -1,0 +1,274 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.game {
+  background-color: #d3d3d3;
+  height: 240px;
+  margin-top: 30px;
+  border-radius: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+.homeTeam {
+  color: white;
+}
+
+.awayTeam {
+  color: white;
+}
+
+hr {
+  color:black;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.ATL{
+  background-color: #E13A3E;
+  height: 70px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.BKN{
+  background-color: #546977;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.BOS{
+  background-color: #061922;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.CHA{
+  background-color: #008CA8;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.CHI{
+  background-color: #CE1141;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.CLE{
+  background-color: #860038;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.DAL{
+  background-color: #007DC5;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.DEN{
+  background-color: #4D90CD;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.DET{
+  background-color: #ED174C;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.GSW{
+  background-color: #FDB927;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.HOU{
+  background-color: #CE1141;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.IND{
+  background-color: #FFC633;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.LAC{
+  background-color: #ED174C;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.LAL{
+  background-color: #FDB927;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.MEM{
+  background-color: #0F586C;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.MIA{
+  background-color: #98002E;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.MIL{
+  background-color: #00471B;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.MIN{
+  background-color: #005083;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.NOP{
+  background-color: #002B5C;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.NYK{
+  background-color: #006BB6;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.OKC{
+  background-color: #007DC3;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.ORL{
+  background-color: #C4CED3;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.PHI{
+  background-color: #ED174C;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.PHX{
+  background-color: #E56020;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.POR{
+  background-color: #546977;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.SAC{
+  background-color: #546977;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.SAS{
+  background-color: #546977;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.TOR{
+  background-color: #546977;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.UTA{
+  background-color: #546977;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.WAS{
+  background-color: #546977;
+  height: 60px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+}
+
+
+
+  
+
+  
